@@ -2,6 +2,8 @@
 
 <h2>Klipper Dusting Utility with Sweeping Technique</h2>
 
+<h4>"Macros never get old, just a little...dusty."</h4>
+
 <h3>Description:</h3>
 
 <h4>KDUST is a Klipper macro designed to help clear dust and debris from your printer's bed. It utilizes the toolhead fan for effective cleaning, making it an ideal choice during the heat-up phase.</h4>
